@@ -2,7 +2,7 @@
 
 A simple counter application built with React, TypeScript, and Tailwind CSS.
 
-![Counter App Screenshot](counter-app-screenshot.png)
+![Counter App Screenshot](counter-readme.png)
 
 ## Features
 
